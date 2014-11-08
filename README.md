@@ -1,4 +1,5 @@
 softdev_projects_fall
+Mark Norwich
 =====================
-
-minor and major projects from fall senior year, software development. 
+periods 6
+Main Project
