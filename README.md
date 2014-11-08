@@ -14,6 +14,10 @@ https://github.com/afischer/SoftDev_Proj01.git
 Created a website where users can post blogs, see other blog posts and comment on previously made blogs.  All data was stored using MongoDB.  
 https://github.com/corrrin9797/blahblahblog.git
 ##Mini Projects
-
+*
++
+-
+*
+>hi
 
 
