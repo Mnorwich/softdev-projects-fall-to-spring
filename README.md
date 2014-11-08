@@ -14,10 +14,17 @@ https://github.com/afischer/SoftDev_Proj01.git
 Created a website where users can post blogs, see other blog posts and comment on previously made blogs.  All data was stored using MongoDB.  
 https://github.com/corrrin9797/blahblahblog.git
 ##Mini Projects
-*Hu
-+
--
-*
->hi
+<ul>
+<li>intro-proj 1
+  <ul>
+  <li>Mark Norwich, Justin Kim
+    <ul>
+    <li>/6/intro-proj1/justin-mark/</li>
+    </ul>
+  </li>
+  </ul>
+  </li>
+</ul>
+  
 
 
