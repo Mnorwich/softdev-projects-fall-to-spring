@@ -1,6 +1,6 @@
 ##softdev_projects_fall
 #Mark Norwich
-######periods 6
+######period 6
 
 ##Main Projects
 ###SoftDev_Proj01
@@ -13,6 +13,10 @@ https://github.com/afischer/SoftDev_Proj01.git
 ####Description 
 Created a website where users can post blogs, see other blog posts and comment on previously made blogs.  All data was stored using MongoDB.  
 https://github.com/corrrin9797/blahblahblog.git
+###Yelp Api
+###Mark Norwich, Andreas Wang
+Utilized yelp's api and oauth to make a slimed down version of the yelp website.  Users are able to search for businesses in specified locations and choose from various paramaters.  Parameters include: Name, Address, Rating, Phone Number.
+https://github.com/awang289/Andreas-Mark-API.git
 ##Mini Projects
 <ul>
 <li>intro-proj 1
