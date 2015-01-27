@@ -17,6 +17,12 @@ https://github.com/corrrin9797/blahblahblog.git
 ###Mark Norwich, Andreas Wang
 Utilized yelp's api and oauth to make a slimed down version of the yelp website.  Users are able to search for businesses in specified locations and choose from various paramaters.  Parameters include: Name, Address, Rating, Phone Number.
 https://github.com/awang289/Andreas-Mark-API.git
+###Qamba
+####Mark Norwich, Cooper Weaver, Andreas Wang, Eric Morginstern 
+####Description
+Users can upload their own music under a genre. Then other users can go discover new music and can choose to like certain songs. By liking the song it gets added to your own profile. At the end of each week, the song with most likes stays on the website and all other songs in that genre get deleted. The user that uploaded the winning song gets bumped up to a full "artist" on Qamba. Artists have the ability to add music that will stay forever. Users can also go straight to Artists and view previous winners. This was made for up and coming artists. Anyone that uploads music not made by themselves will have their music taken down. 
+http://104.236.253.232/
+https://github.com/Peglegs/Qamba
 ##Mini Projects
 <ul>
 <li>intro-proj 1
