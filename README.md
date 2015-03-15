@@ -1,6 +1,6 @@
 ##softdev_projects_fall/Spring
 #Mark Norwich
-######period 6
+
 
 ##Main Projects
 ###SoftDev_Proj01
